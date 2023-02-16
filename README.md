@@ -1,7 +1,8 @@
 # Server_1.12.2_ModPack
-ModPack for server
+[WIP]ModPack for server
 
 Идустриальная сборка модов для игры на сервере/одиночной/с друзьями
+Сберка тестируется
 
 Мод пак предназначен для лаунчера игры "TLauncher" 
 Сслыка на лаунчер: tlauncher.org
