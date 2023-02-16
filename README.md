@@ -5,7 +5,7 @@ ModPack for server
 сслыка на лаунчер: tlauncher.org
 
 Скачать сборку:
-
+Скачивать только с reliesed
 Установка:
 1. Узнать где установлена игра(.minecraft)
 https://skr.sh/sIQO6o7HEgY
