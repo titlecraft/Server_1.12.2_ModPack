@@ -2,4 +2,4 @@
 Добавленные моды
 IndustrialCraft
 BuildCraft
-
+Discord rich
