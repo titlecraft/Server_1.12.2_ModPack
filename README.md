@@ -5,7 +5,9 @@ ModPack for server
 сслыка на лаунчер: tlauncher.org
 
 Скачать сборку:
-Скачивать только с reliesed
+
+https://github.com/titlecraft/Server_1.12.2_ModPack/releases
+
 Установка:
 1. Узнать где установлена игра(.minecraft)
 https://skr.sh/sIQO6o7HEgY
