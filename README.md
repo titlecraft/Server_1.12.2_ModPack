@@ -9,9 +9,6 @@ ModPack for server
 Скачать сборку:
 https://github.com/titlecraft/Server_1.12.2_ModPack/releases
 
-Лог изменений в сборке
-https://github.com/titlecraft/Server_1.12.2_ModPack/blob/main/Changelog.md
-
 Установка:
 1. Узнать где установлена игра(.minecraft)
 https://skr.sh/sIQO6o7HEgY
